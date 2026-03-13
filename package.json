@@ -1,0 +1,12 @@
+{
+  "name": "zetu-gen",
+  "version": "1.0.0",
+  "description": "Discord Account Generator Dashboard",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js" 
+  },
+  "dependencies": {
+    "express": "^4.18.2" 
+  }
+}
